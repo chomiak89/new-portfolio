@@ -5,9 +5,9 @@ $(window).on("load", () => {
   //NAME LOGO
   $(".logo-animation-container").addClass("playing");
   //SOCIAL MEDIA ICONS
-  $(".animated-li-1").addClass("playing");
-  $(".animated-li-2").addClass("playing");
-  $(".animated-li-3").addClass("playing");
+  $(".animated-li-1").addClass("social-media-li-playing");
+  $(".animated-li-2").addClass("social-media-li-playing");
+  $(".animated-li-3").addClass("social-media-li-playing");
   //MAIN CONTENT
   $(".landing-heading-animated-span-1").addClass(
     "landing-heading-animated-span-1-playing"
